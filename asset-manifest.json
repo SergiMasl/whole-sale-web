@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whole-sale-web/static/css/main.cc9fd612.css",
+    "main.js": "/whole-sale-web/static/js/main.1b2f9f0b.js",
+    "index.html": "/whole-sale-web/index.html",
+    "main.cc9fd612.css.map": "/whole-sale-web/static/css/main.cc9fd612.css.map",
+    "main.1b2f9f0b.js.map": "/whole-sale-web/static/js/main.1b2f9f0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc9fd612.css",
+    "static/js/main.1b2f9f0b.js"
+  ]
+}
