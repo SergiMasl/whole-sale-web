@@ -1,0 +1,42 @@
+[
+    [
+      {
+        "id": "1",
+        "title": "Do you pay market value?",
+        "answer":
+          "We typically pay for homes below market value because we are investors and will invest money into the home to renovate it. This being said, we commonly serve home sellers in tough situations that cannot afford repairs on the home. We give you our word that will we give you the best price possible given the home condition and market condition! Also, our offer is just that – an offer. If you don’t like our offer, that’s totally fine. If you do, we can close quickly and with certainty."
+      },
+      {
+        "id": "2",
+        "title": "How do you calculate your offer?",
+        "answer":
+          "Our process is very straightforward. We look at the property condition, comparables in the area, and a market forecast. With all those factors, we determine an offer that makes sense for us and you as the seller."
+      },
+      {
+        "id": "3",
+        "title": "Are there any commissions or fees?",
+        "answer":
+          "When you list your home with a Realtor, you have to pay fees and commissions. When you work with a cash buyer like us, there are no fees or commissions. The offer price is exactly what you receive."
+      }
+    ],
+    [
+      {
+        "id": "4",
+        "title": "How are you different from a real estate agent?",
+        "answer":
+          "Agents will list your house on the MLS and charge you commissions and fees when they find you a buyer. This process can take months, especially in this market. Five-Star Cash Offer is a cash buyer, meaning we pay cash instead of of listing your home, so we can close whenever you prefer! If you need to sell fast, you should consider a cash buyer like Five-Star Cash Offer. While you won’t get full market value, you gain speed and certainty working with us."
+      },
+      {
+        "id": "5",
+        "title": "Do you sell my information?",
+        "answer":
+          "No, your personal information is kept securely on our servers and other services outlined in our privacy policy. We guarantee you will not be contacted by other buyers or real estate services."
+      },
+      {
+        "id": "6",
+        "title": "I need to sell as quickly as possible, can you help?",
+        "answer":
+          "Of course! Please reach out to us and we will put together a fair cash offer today! If you accept, we’ll get started with the process right away."
+      }
+    ]
+  ]
